@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Ananya Menon",
+      "email": "ananya.menon@.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": 2,
+      "name": "Rahul Das",
+      "email": "rahul.das@.com",
+      "phone": "9123456780"
+    },
+    {
+      "id": 3,
+      "name": "Neha Varghese",
+      "email": "neha.v@.com",
+      "phone": "9988776655"
+    },
+    {
+      "id": 5,
+      "name": "Devika Pillai",
+      "email": "devika.p@.com",
+      "phone": "8877665544"
+    },
+    {
+      "id": 6,
+      "name": "Kiran Joseph",
+      "email": "kiran.joseph@.com",
+      "phone": "9345678901"
+    },
+    {
+      "id": 7,
+      "name": "Meera Krishnan",
+      "email": "meera.k@.com",
+      "phone": "9765432109"
+    },
+    {
+      "id": 8,
+      "name": "Aditya Mohan",
+      "email": "aditya.m@.com",
+      "phone": "9102837465"
+    },
+    {
+      "id": 9,
+      "name": "Sneha Suresh",
+      "email": "sneha.s@.com",
+      "phone": "9393939393"
+    },
+    {
+      "id": 10,
+      "name": "Vikram R",
+      "email": "vikram.r@.com",
+      "phone": "9812345678"
+    },
+    {
+      "id": 11,
+      "name": "arjun",
+      "email": "arjun@.com",
+      "phone": "8374523456"
+    }
+  ]
+}
