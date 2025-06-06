@@ -59,6 +59,12 @@
       "name": "arjun sathia",
       "email": "arjun@.com",
       "phone": "8374523456"
+    },
+    {
+      "id": 12,
+      "name": "rohit",
+      "email": "rohit.h@com",
+      "phone": "8456234141"
     }
   ]
 }
